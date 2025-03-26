@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb890f91-e302-4de9-8549-d69ea7e729ec" name="Changes" comment="" />
+    <list default="true" id="fb890f91-e302-4de9-8549-d69ea7e729ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HW_24.3.2025_prototype_flyweight_thread_safe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question_1/Diagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question_1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question_1/question_1_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question_2/Diagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question_2/Emoji_flyweight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question_3_thread_safe/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question_3_thread_safe/question_3_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question_3_thread_safe/question_3_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question_3_thread_safe/question_3_c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -18,7 +50,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.Emoji_flyweight.executor": "Run",
+    "Python.Question_1.executor": "Run",
+    "Python.question_1_code.executor": "Run",
+    "Python.question_3_a.executor": "Run",
+    "Python.question_3_b.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -70,6 +109,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Question_3_thread_safe/question_3_a.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
